@@ -1,0 +1,13 @@
+# Default ignored files
+/.idea/workspace.xml
+.idea
+*.iml
+out
+gen
+
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+
